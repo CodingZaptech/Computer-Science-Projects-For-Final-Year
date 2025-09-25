@@ -14,4 +14,4 @@ A Python backend project for detecting spam SMS using Machine Learning.
 
 ## How to Run
 1. Clone the repository.
-2. Install required packages:
+2. Install required packages
