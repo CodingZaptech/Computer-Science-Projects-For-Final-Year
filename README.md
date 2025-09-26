@@ -1,7 +1,6 @@
 # Computer Science Projects for Final Year
 
-Discover a curated collection of functional Final Year Projects for Computer Science students.  
-Each project comes with a well-documented backend structure to help you get started quickly and focus on extending features.
+Discover a curated collection of functional Final Year Projects for Computer Science students. Each project comes with a well-documented backend structure to help you get started quickly and focus on extending features.
 
 ## About
 This repository is created to support students and developers in building practical, hands-on projects for their final year.  
